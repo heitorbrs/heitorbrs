@@ -1,5 +1,3 @@
-- 👋 Olá, sou Heitor
-- 👀 Estou interessado em conhecer o mundo da programação
-- 🌱 Atualmente estou aprendendo javascript
-- 💞️ Estou procurando colaborar em projetos
-- 📫 Como chegar até mim ...
+## Olá 👋!
+
+Meu nome é Heitor, sou do Brasil e atualmente estudo linguagens front-end e back-end.
