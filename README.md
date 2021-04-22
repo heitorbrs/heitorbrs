@@ -7,7 +7,7 @@ Meu nome é Heitor, sou do Brasil e atualmente faço Engenharia Elérica mas gos
 ## Tecnologias:
 
 - Front-end: HTML, CSS e Javascript
-- Back-end: C e C++
+- Back-end: C, Python e Java
 
 ## Contato:
 
