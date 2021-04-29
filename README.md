@@ -2,11 +2,11 @@
 
 ## Sobre mim:
 
-Meu nome é Heitor, sou do Brasil e atualmente faço Engenharia Elérica mas gosto muito da área de programação. Pretendo seguir na área de front-end com criação de sites e aplicações web.
+Meu nome é Heitor, sou do Brasil e atualmente faço Engenharia Elérica mas gosto muito da área de programação.
 
 ## Tecnologias:
 
-- Front-end: HTML, CSS e Javascript
+- Front-end: HTML e CSS
 - Back-end: C, Python e Java
 
 ## Contato:
