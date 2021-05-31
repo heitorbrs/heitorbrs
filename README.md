@@ -13,3 +13,5 @@ Meu nome é Heitor, sou do Brasil e atualmente faço Engenharia Elérica mas gos
 
 - [Linkedin](https://www.linkedin.com/in/heitorbrasiel/)
 - [Instagram](https://www.instagram.com/heitorbrasiel/)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorbrs&layout=compact&langs_count=16&theme=dracula"/>
