@@ -9,10 +9,11 @@ Meu nome é Heitor, sou do Brasil e atualmente faço Engenharia Elérica mas gos
 - Front-end: HTML e CSS
 - Back-end: C, Python e Java
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorbrs&layout=compact&langs_count=16&theme=dracula"/>
+
 ## Contato:
 
 - [Linkedin](https://www.linkedin.com/in/heitorbrasiel/)
 - [Instagram](https://www.instagram.com/heitorbrasiel/)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorbrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorbrs&layout=compact&langs_count=16&theme=dracula"/>
+
