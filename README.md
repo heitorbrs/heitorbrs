@@ -19,9 +19,8 @@ Meu nome é Heitor, sou do Brasil e atualmente faço Engenharia Elérica mas gos
 
 ## Contato:
 
-<a href="https://instagram.com/heitorbrasiel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e81d4d?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
 <a href="https://www.linkedin.com/in/heitorbrasiel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/heitorbrasiel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e81d4d?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ##
 
