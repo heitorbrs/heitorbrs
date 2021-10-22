@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 
-Meu nome é Heitor, sou do Brasil e atualmente faço Engenharia Elérica mas gosto muito da área de programação.
+Meu nome é Heitor, sou do Brasil, atualmente faço Engenharia Elérica e gosto muito da área de programação.
 
 ## Tecnologias:
 
